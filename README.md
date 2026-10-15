@@ -1,4 +1,4 @@
-# WorkForces (KaamSetu · काम साथी)
+# WorkForces 
 
 > **Nearby Work · Clear Terms · Work with Dignity**  
 > A realistic, responsive platform bridging informal daily-wage workers and local employers with transparency, structured trade-based matching, two-way accountability, and fair labor standards.
